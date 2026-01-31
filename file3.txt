@@ -1,0 +1,3 @@
+Github Collaboration
+emphasising branching, committing, remotes, issues, and pull requests. 
+Effective workflows, code reviews, conflict management, and distributed team practices are key for success.
