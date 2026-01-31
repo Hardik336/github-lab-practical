@@ -1,0 +1,12 @@
+GitHub was created by four developers:
+
+Tom Preston-Werner
+Chris Wanstrath
+PJ Hyett
+Scott Chacon
+
+And was Launched in  April 10, 2008
+
+GitHub – a web platform that made sharing and collaborating on code simple and social.
+
+Then, in 2018: Microsoft acquired GitHub for $7.5 billion
